@@ -52,7 +52,7 @@ This project includes:
 
 This Power BI project uses a clean and optimized star schema design for efficient reporting.
 
-<img src="images/star_schema.png" width="700">
+<img src="images/Star_schema.png" width="700">
 
 ---
 
